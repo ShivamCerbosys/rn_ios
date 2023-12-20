@@ -1,0 +1,99 @@
+{
+  "searchBarText": "Search for products, brands",
+  "@searchBarText": {
+    "description": "text for searchbar on homepage"
+  },
+  "logoutText": "Logout",
+  "@logoutText": {
+    "description": "text for logout listtile in drawer widget"
+  },
+  "homeText": "Home",
+  "@homeText": {
+    "description": "text for home"
+  },
+  "orderText": "My Orders",
+  "@orderText": {
+    "description": "text for my orders listtile in drawer widget"
+  },
+  "addressText": "My Address",
+  "@addressText": {
+    "description": "text for my address listtile in drawer widget"
+  },
+  "languageText": "Language",
+  "@languageText": {
+    "description": "Text for language"
+  },
+  "aboutText": "About Us",
+  "@aboutText": {
+    "description": "text for about us listtile in drawer widget"
+  },
+  "shareText": "Share the App",
+  "@shareText": {
+    "description": "text for share the app listtile in drawer widget"
+  },
+  "settingText": "Settings",
+  "@settingText": {
+    "description": "text for settings listtile in drawer widget"
+  },
+  "welcomeText": "Welcome",
+  "@welcomeText": {
+    "description": "welcome text on otp and login page"
+  },
+  "phoneText": "Phone",
+  "@phoneText": {
+    "description": "text for phone"
+  },
+  "continueButtonText": "Continue",
+  "@continueButtonText": {
+    "description": "text for continue button"
+  },
+  "footerText": "By continuing, you agree to accept our Privacy Policy & Terms of Service",
+  "@footerText": {
+    "description": "text for footer"
+  },
+  "mobileSnackbar": "Please enter a valid phone number with at least 10 digits.",
+  "@mobileSnackbar": {
+    "description": "text when wrong phone number is entered"
+  },
+  "enterPhoneText": "Enter Mobile No.",
+  "@enterPhoneText": {
+    "description": "label text for textfeild on login page"
+  },
+  "enterOTPText": "Enter OTP",
+  "@enterOTPText": {
+    "description": "label text for textfeild on otp page"
+  },
+  "otpSnackbar": "Please enter a valid OTP",
+  "@otpSnackbar": {
+    "description": "text when wrong otp is entered"
+  },
+  "editButtonText": "Edit",
+  "@editButtonText": {
+    "description": "text for edit button"
+  },
+ "otpText": "OTP",
+  "@otpText": {
+    "description": "otp Text on otp page"
+  },
+   "locationSnackbar": "location permission/service denied",
+  "@locationSnackbar": {
+    "description": "text when wrong otp is entered"
+  },
+   "locationError": "Error Getting Location",
+  "@locationError": {
+    "description": "text when wrong otp is entered"
+  },
+   "locationErrorText": "Failed to get your current location. Please try again later.",
+  "@locationErrorText": {
+    "description": "text when wrong otp is entered"
+  },
+   "wishListText": "Wishlist",
+  "@wishListText": {
+    "description": "text when wrong otp is entered"
+  },
+   "notificationText": "Notifications",
+  "@notificationText": {
+    "description": "text when wrong otp is entered"
+  }
+ 
+}
